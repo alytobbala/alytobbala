@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aly 👋
 
-<!--
-**alytobbala/alytobbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer based in Stuttgart. By day I work at a corporate employer; this profile is for side projects.
 
-Here are some ideas to get you started:
+## Side projects
+Source is private, so each repo is a showcase with screenshots, architecture and tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[MeemType](https://github.com/alytobbala/cv-example-showcase)**: portfolio site with a built-in editor for a type designer ([live](https://meemtype.com/))
+- **[Stuttgart Padel Academy](https://github.com/alytobbala/stuttgart-padel-academy-showcase)**
+- **[Camp Management](https://github.com/alytobbala/camp-management-showcase)**
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/alytobbala/)
+- alytobbala@gmail.com
+
+Happy to walk through any of the code live.
