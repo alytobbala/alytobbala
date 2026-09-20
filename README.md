@@ -12,6 +12,7 @@ Full-stack padel coaching platform: session booking, prepaid credits, waitlists 
 - **[Camp Management](https://github.com/alytobbala/camp-management-showcase)**
 Showcase of a full-stack camp management platform: admin, coach and player portals, planning boards, accommodation and booking flows. Next.js, Express, PostgreSQL, Prisma, Supabase. Source is private
 - **[MeemType](https://github.com/alytobbala/cv-example-showcase)**: portfolio site with a built-in editor for a type designer ([live](https://meemtype.com/))
+- **[MeemType](https://github.com/alytobbala/rental-collection-showcase)**:Full-stack rental & building-management tool (React/TypeScript + Node/Express + MySQL) for tracking rent, utilities, deposits, and garage income across a multi-unit building. Source is private 
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/alytobbala/)
