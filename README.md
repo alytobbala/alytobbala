@@ -5,13 +5,13 @@ Software developer based in Stuttgart. By day I work at a corporate employer; th
 ## Side projects
 Source is private, so each repo is a showcase with screenshots, architecture and tech stack:
 
-- **[MeemType](https://github.com/alytobbala/cv-example-showcase)**: portfolio site with a built-in editor for a type designer ([live](https://meemtype.com/))
 - **[Padel League](https://github.com/alytobbala/stuttgart-padel-league-showcase)**: 
 Full-stack padel league platform: live scoring, rankings, tournaments, multi-role admin. React, TypeScript, Node/Express, Firestore. Live in production. Source private.([live](https://scores.stuttgart-padel.com/))
 - **[Padel Academy](https://github.com/alytobbala/stuttgart-padel-academy-showcase)**: 
-Full-stack padel league platform: live scoring, rankings, tournaments, multi-role admin. React, TypeScript, Node/Express, Firestore. Live in production. Source private.([live](https://academy.stuttgart-padel.com/))
+Full-stack padel coaching platform: session booking, prepaid credits, waitlists & coach dashboards. React, TypeScript, Node, Firebase, Stripe. Live demo, private source.Source private.([live](https://academy.stuttgart-padel.com/))
 - **[Camp Management](https://github.com/alytobbala/camp-management-showcase)**
-Full-stack padel league platform: live scoring, rankings, tournaments, multi-role admin. React, TypeScript, Node/Express, Firestore. Live in production. Source private.
+Showcase of a full-stack camp management platform: admin, coach and player portals, planning boards, accommodation and booking flows. Next.js, Express, PostgreSQL, Prisma, Supabase. Source is private
+- **[MeemType](https://github.com/alytobbala/cv-example-showcase)**: portfolio site with a built-in editor for a type designer ([live](https://meemtype.com/))
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/alytobbala/)
